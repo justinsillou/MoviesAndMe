@@ -9,7 +9,7 @@ Développez une application mobile React Native
 # Installation des outils
 `$ (sudo) npm install -g expo-cli`
 
-*Création d'une CRNA*  
+**Création d'une CRNA**   
 `$ cd /<chemin_dossier>`  
 `$ expo init <NomApp>`  
 -> Projet vierge : 'blank'  
