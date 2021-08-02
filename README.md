@@ -14,5 +14,5 @@ Développez une application mobile React Native
 -> Projet vierge : 'blank'  
 
 # Démarrage  
-`$ cd /my-app`
+`$ cd /my-app`  
 `$ npm run`
