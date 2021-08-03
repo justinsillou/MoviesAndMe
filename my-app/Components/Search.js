@@ -4,8 +4,14 @@ import React from 'react';
 import { StyleSheet, View, Button, TextInput, FlatList, Text } from 'react-native';
 import films from '../Helpers/filmsData'
 import FilmItem from './FilmItem'
+import { getFilmsApiWithSearchedText } from '../API/TMDBApi'
 
 class Search extends React.Component {
+
+  _loadFilms(){
+    getFilmsApiWithSearchedText("star").then(data => console.log(data))
+  }
+
   render(){
     return(
       <View style={styles.main_container}>
