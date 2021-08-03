@@ -16,3 +16,9 @@ Développez une application mobile React Native
 # Démarrage  
 `$ cd /my-app`  
 `$ npm run`
+
+# Réalisations  
+- Ajout d'un `Components Custom` Search.js (Components/Search.js)
+- Ajout d'un `Style`
+- Construction des vues avec `Flexbox`
+- Utilisation des `Props` (Propriété appliquée à un Component)
