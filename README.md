@@ -11,7 +11,15 @@ Développez une application mobile React Native
 
 **Création d'une CRNA**     
 `$ expo init my-app`  
--> Projet vierge : 'blank'  
+-> Projet vierge : 'blank'
+
+**Ajout du fichier token**  
+*Remplacer XXX par votre token The Data Base Movies*  
+```
+  cd Helpers
+  echo "const API_TOKEN = \"XXX\"
+  export default API_TOKEN" > token.js
+```
 
 # Démarrage  
 `$ cd /my-app`  
