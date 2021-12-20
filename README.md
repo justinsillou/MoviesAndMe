@@ -23,7 +23,7 @@ Développez une application mobile React Native
 
 # Démarrage  
 `$ cd /my-app`  
-`$ npm run`
+`$ npm start`
 
 # Réalisations  
 - Ajout d'un `Components Custom` Search.js (Components/Search.js)
